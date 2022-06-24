@@ -1,4 +1,4 @@
-# Analyzing-schizophrenia
+# Analyzing schizophrenia
 
 <p align="center">
 <img src="https://github.com/aritzLizoain/Analyzing-schizophrenia/blob/main/EDA.jpg" width="1300"/>
